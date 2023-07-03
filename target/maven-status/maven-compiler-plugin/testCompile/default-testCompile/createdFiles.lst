@@ -2,16 +2,10 @@ com\ind\Page\LoginPage.class
 com\ind\Test\LeadPageTest.class
 com\ind\Utilities\ExcelUtilities.class
 com\ind\Utilities\JiraPolicy.class
-com\ind\Page\AccountPage.class
-com\ind\Page\ContactPage.class
 com\ind\Test\LoginPageTest.class
-com\ind\Test\OpportunitiesPageTest.class
 com\ind\Report\ExtentsReportGenerator.class
-com\ind\Page\OpportunitiesPage.class
 com\ind\Base\TestBase.class
 com\ind\Page\LeadPage.class
-com\ind\Test\AccountPageTest.class
 com\ind\Utilities\JiraServiceProvider.class
 com\ind\Report\ObjectRepo.class
 com\ind\Report\Listener.class
-com\ind\Test\ContactPageTest.class
